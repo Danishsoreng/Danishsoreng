@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm DanishSoreng</h1>
 <h3 align="center">A passionate data analysis</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishsoreng&label=Profile%20views&color=0e75b6&style=flat" alt="danishsoreng" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danishsoreng" alt="danishsoreng" /></a> </p>
 
 - 🔭 I’m currently working on [HSE REPORT GUI](https://github.com/Danishsoreng/tkinter-hse-pdf-portal)
 
