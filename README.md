@@ -1,4 +1,4 @@
-# Hi 👋, I'm Danish Soreng
+👋🔭———💡🎓–💼––—📚———📊🔗# Hi 👋, I'm Danish Soreng
 
 ## Networking-Focused Data Engineer | ETL Pipelines | Cloud Architecture | Python
 
