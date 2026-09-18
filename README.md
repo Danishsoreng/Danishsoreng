@@ -1,34 +1,67 @@
-<h1 align="center">Hi 👋, I'm DanishSoreng</h1>
-<h3 align="center">A passionate data analysis</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danishsoreng&label=Profile%20views&color=0e75b6&style=flat" alt="danishsoreng" /> </p>
+# Hi 👋, I'm Danish Soreng
 
-- 🔭 I’m currently working on [HSE REPORT GUI](https://github.com/Danishsoreng/tkinter-hse-pdf-portal)
+## Data Engineer | ETL Pipelines | Analytics | Python
 
-- 🌱 I’m currently learning **data analysis courses**
+Building scalable data pipelines and analytics solutions with Apache Airflow, PySpark, Snowflake, and Databricks.
 
-- 👯 I’m looking to collaborate on **Data Mining and Transforming**
+---
 
-- 🤝 I’m looking for help with **Data Structural Methods and AI Implementation**
+## 🔭 What I'm Working On
 
-- 👨‍💻 All of my projects are available at [https://github.com/Danishsoreng?tab=repositories](https://github.com/Danishsoreng?tab=repositories)
+- **Smart Parking Vehicle Detection & Compliance Dashboard** — Real-time CCTV analysis pipeline with ML model deployment
+- - **NetSage AI** — Network troubleshooting assistant with human-in-the-loop AI (Cisco internship)
+  - - **Data Pipeline Development** — Designing and optimizing ETL workflows for enterprise systems
+   
+    - ---
 
-- 💬 Ask me about **python , data related topics**
+    ## 💡 Core Stack
 
-- 📫 How to reach me **danishsoreng32@gmail.com**
+    **Data Engineering:**
+    ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=flat-square)
+    ![Apache Airflow](https://img.shields.io/badge/-Airflow-017cee?logo=apacheairflow&logoColor=white&style=flat-square)
+    ![PySpark](https://img.shields.io/badge/-Spark-e25a1c?logo=apachespark&logoColor=white&style=flat-square)
+    ![Snowflake](https://img.shields.io/badge/-Snowflake-29b5e8?logo=snowflake&logoColor=white&style=flat-square)
+    ![Databricks](https://img.shields.io/badge/-Databricks-eb6e20?logo=databricks&logoColor=white&style=flat-square)
 
-- ⚡ Fun fact **I lift weights**
+    **Databases & Tools:**
+    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+    ![SQL](https://img.shields.io/badge/-SQL-cc2927?style=flat-square)
+    ![Power BI](https://img.shields.io/badge/-PowerBI-f2c811?logo=powerbi&logoColor=white&style=flat-square)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danish soreng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish soreng" height="30" width="40" /></a>
-<a href="https://instagram.com/dan3y_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dan3y_yt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mji" height="30" width="40" /></a>
-</p>
+    **Languages:**
+    ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=flat-square)
+    ![SQL](https://img.shields.io/badge/-SQL-cc2927?style=flat-square)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+    ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishsoreng&show_icons=true&locale=en&layout=compact" alt="danishsoreng" /></p>
+    ## 🎓 Education
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danishsoreng&" alt="danishsoreng" /></p>
+    **B.Tech in Computer Science & Engineering** | KIIT University, Bhubaneswar (2027)
+    CGPA: 8.07/10
+
+    ---
+
+    ## 💼 Experience
+
+    **Cisco Virtual Internship** | Jun – Jul 2026
+    - Developed NetSage AI: Network troubleshooting assistant with ML integration
+    - - Implemented human review workflows for model reliability
+     
+      - **IOCL Internship** | May – Jul 2025
+      - - Built data pipelines for operational reporting
+        - - Analyzed performance metrics and KPIs
+         
+          - ---
+
+          ## 📊 GitHub Stats
+
+          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danishsoreng&show_icons=true&locale=en&layout=compact)
+
+          ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danishsoreng)
+
+          ---
+
+          ## 🔗 Connect
+
+          [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/danish-soreng)
+          [![Email](https://img.shields.io/badge/-Email-ea4335?logo=gmail&logoColor=white&style=flat-square)](mailto:danishsoreng32@gmail.com)
