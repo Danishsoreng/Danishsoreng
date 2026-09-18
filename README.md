@@ -53,14 +53,6 @@ Building scalable data pipelines and analytics solutions with Apache Airflow, Py
          
           - ---
 
-          ## 📊 GitHub Stats
-
-          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danishsoreng&show_icons=true&locale=en&layout=compact)
-
-          ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Danishsoreng)
-
-          ---
-
           ## 🔗 Connect
 
           [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/danish-soreng)
