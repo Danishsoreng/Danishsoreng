@@ -1,6 +1,6 @@
-👋🔭———💡🎓–💼––—📚———📊🔗# Hi 👋, I'm Danish Soreng
+ Hi 👋, I'm Danish Soreng
 
-## Networking-Focused Data Engineer | ETL Pipelines | Cloud Architecture | Python
+## Data Engineer | ETL Pipelines | Cloud Architecture | Python
 
 Building production-grade data pipelines, ETL workflows, and intelligent network solutions. Expertise in designing scalable systems that reduce manual processing by 60%+, combining data engineering best practices with enterprise networking knowledge.
 
